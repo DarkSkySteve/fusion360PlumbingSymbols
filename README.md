@@ -1,5 +1,5 @@
 # fusion360PlumbingSymbols
-Library of plumbing schematic symbols for use in Fusion 360
+Library of plumbing schematic symbols for use in Fusion 360 electronics schematic
 
 Included parts:
 
