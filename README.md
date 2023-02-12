@@ -26,3 +26,6 @@ Included parts:
 * Faucet
 * P-trap
 * Expansion tank
+* Generic valve (NO)
+* Generic valve (NC)
+* Drip tray
